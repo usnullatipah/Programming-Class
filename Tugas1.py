@@ -1,0 +1,11 @@
+a = int(input("Inputkan nilai pertama: "))
+b = int(input("Inputkan nilai kedua: "))
+c = int(input("Inputkan nilai ketiga: "))
+d = a + b
+print ("%d + %d + %d = " % (a,b,c),d)
+d = a - b
+print ("%d - %d - %d = " % (a,b,c),d)
+d = a * b
+print ("%d * %d * %d = " % (a,b,c),d)
+d = a / b
+print ("%d / %d /%d = " % (a,b,c),d)
